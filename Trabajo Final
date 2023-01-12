@@ -1,0 +1,206 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/Paloma-Moya-Tudela/AA_PRACTICA2_GRUPO_2/blob/main/Trabajo%20Final\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "**GRUPO 2**\n",
+        "\n",
+        "María García Rodríguez\n",
+        "\n",
+        "Paloma Moya Tudela\n",
+        "\n",
+        "Sofía Peña González\n",
+        "\n",
+        "Elena Peral Pastor\n",
+        "\n"
+      ],
+      "metadata": {
+        "id": "w8YbxA3YDZZu"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# RESUMEN"
+      ],
+      "metadata": {
+        "id": "zXY6f3Stvuin"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [],
+      "metadata": {
+        "id": "fHM3CH4ikEHP"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# ÍNDICE"
+      ],
+      "metadata": {
+        "id": "Xo8E6lFYEGf7"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "\n",
+        "\n",
+        "*   Introducción\n",
+        "*   Datos\n",
+        "*   Métodos\n",
+        "*   Resolución\n",
+        "*   Hallazgos\n",
+        "*   Trabajo futuro\n",
+        "*   Referencias Bibliográficas\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n"
+      ],
+      "metadata": {
+        "id": "3fiCm_ARE1Rb"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# INTRODUCCIÓN"
+      ],
+      "metadata": {
+        "id": "Iu-Hs4guEOoV"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [],
+      "metadata": {
+        "id": "QseTgK29kc7h"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# DATOS"
+      ],
+      "metadata": {
+        "id": "S1bh5aylkP-E"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [],
+      "metadata": {
+        "id": "s6S1p5yikdmx"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# MÉTODOS"
+      ],
+      "metadata": {
+        "id": "6fZHw-sVkRA3"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [],
+      "metadata": {
+        "id": "Becpgd8CkeZT"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# RESOLUCIÓN"
+      ],
+      "metadata": {
+        "id": "X36Twi4IEVBu"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [],
+      "metadata": {
+        "id": "yV_vx-Nsks1O"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# HALLAZGOS"
+      ],
+      "metadata": {
+        "id": "cI9seaD4kRes"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [],
+      "metadata": {
+        "id": "_AAUpDLXke6Q"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# TRABAJO FUTURO"
+      ],
+      "metadata": {
+        "id": "9P_OCs6RkRme"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [],
+      "metadata": {
+        "id": "jYTclgbBkfkT"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# REFERENCIAS BIBLIOGRÁFICAS"
+      ],
+      "metadata": {
+        "id": "4Bm4CA1GlNng"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [],
+      "metadata": {
+        "id": "c3c3fteVljjb"
+      }
+    }
+  ]
+}
